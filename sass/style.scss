@@ -1,0 +1,9 @@
+$red: #ff0000;
+
+body {
+  color: $red;
+  display: flex;
+  opacity: 0;
+  font-size: 1.2rem;
+	transition: all .3s ease;
+}

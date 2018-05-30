@@ -1,0 +1,13 @@
+body {
+  color: #ff0000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  opacity: 0;
+  font-size: 1.2rem;
+  -webkit-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+/*# sourceMappingURL=style.css.map*/
